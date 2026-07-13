@@ -1,0 +1,50 @@
+
+Influenza A virus (A/duck/Hubei/ZYSYG1/2015(H6N2))
+
+Wille, M., Grillo, V., Ban de Gouvea Pedroso, S., Burgess, G. W., Crawley, A., Dickason, C., Hansbro, P. M., Hoque, M. A., Horwood, P. F., Kirkland, P. D., Korn, N. Y., Lee, S., McInnes, S., Milic, N., Moloney, M., O’Riley, K., Rocke, A., Warner, S., ... & Hurt, A. C. (2022). Australia as a global sink for the genetic diversity of avian influenza A virus. PLOS Pathogens, 18(5), Article e1010150. https://doi.org/10.1371/journal.ppat.1010150
+
+Influenza A virus (A/wild bird/Wuhan/CDHN15/2015(H6N2))	
+
+Zhao, K., Gu, M., Zhong, L., Duan, Z., Zhang, Y., Zhu, J., Geng, T., Chen, S., Liu, X., & Liu, X. (2018). Characterization of a novel low pathogenic avian influenza A(H5N7) virus isolated from a domestic duck in Dongting Lake Wetland of China, 2016. Virologica Sinica, 33(4), 329–335. https://doi.org/10.1007/s12250-018-0044-8
+
+
+Influenza A virus (A/barnacle goose/Netherlands/1/2014(H6N8))	
+
+Beerens, N., Heutink, R., Harders, F., Peeters, B., & Bossers, A. (2019). Characterization of highly pathogenic avian influenza A(H5N6) virus in the Netherlands, 2017–2018. Emerging Infectious Diseases, 25(2), 293–299. https://doi.org/10.3201/eid2502.181048
+
+Influenza A virus (A/common teal/Nanji/NJ-280/2013(H6N1))	
+
+Li, R., Zhang, T., Xu, J., Chang, J., & Xu, B. (2020). Isolation of two novel reassortant H3N6 avian influenza viruses from long‐distance migratory birds in Jiangxi Province, China. MicrobiologyOpen, 9(8), Article e1060. https://doi.org/10.1002/mbo3.1060
+
+
+Chen, R., Zhang, J., & Wang, Y. (2019). Novel reassortant avian influenza A(H3N8) virus isolated from a wild bird in Jiangxi, China. Microbiology Resource Announcements, 8(46), Article e01163-19. https://doi.org/10.1128/mra.01163-19
+
+
+
+Influenza A virus (A/mallard duck/Netherlands/7/2014(H6N2))	
+
+Beerens, N., Heutink, R., Harders, F., Peeters, B., & Bossers, A. (2019). Circulation of low pathogenic avian influenza (LPAI) viruses in wild birds and poultry in the Netherlands, 2006–2016. Scientific Reports, 9, Article 13712. https://doi.org/10.1038/s41598-019-50280-9
+
+
+Influenza A virus (A/mallard duck/Netherlands/11/2014(H6N2))	
+
+Beerens, N., Heutink, R., Harders, F., Peeters, B., & Bossers, A. (2019). Circulation of low pathogenic avian influenza (LPAI) viruses in wild birds and poultry in the Netherlands, 2006–2016. Scientific Reports, 9, Article 13712. https://doi.org/10.1038/s41598-019-50280-9
+
+Influenza A virus (A/Anser fabalis/China/Anhui/S39/2014(H6N2))	
+
+Sun, X., Wang, J., Zhao, L., Jiang, M., Wang, Y., Meng, F., ... & Yu, Z. (2020). Co-circulation of multiple reassortant H6 subtype avian influenza viruses in wild birds in eastern China, 2016–2017. BMC Veterinary Research, 16(1), Article 119. https://doi.org/10.1186/s12917-020-02334-w
+
+
+Influenza A virus (A/Anser fabalis/China/Anhui/S20/2014(H6N2))	
+
+Wang, J., Sun, X., Meng, F., Zhao, L., Jiang, M., Wang, Y., ... & Yu, Z. (2017). New H6 influenza virus reassortment strains isolated from Anser fabalis in Anhui Province, China. Virology Journal, 14, Article 35. https://doi.org/10.1186/s12985-017-0694-y
+
+
+Influenza A virus (A/Anser fabalis/China/Anhui/S65/2014(H6N2))	
+
+Wang, J., Sun, X., Meng, F., Zhao, L., Jiang, M., Wang, Y., ... & Yu, Z. (2017). New H6 influenza virus reassortment strains isolated from Anser fabalis in Anhui Province, China. Virology Journal, 14, Article 35. https://doi.org/10.1186/s12985-017-0694-y
+
+
+Influenza A virus (A/duck/Vietnam/LBM533/2013(H3N6))
+
+Li, R., Zhang, T., Xu, J., Chang, J., & Xu, B. (2020). Isolation of two novel reassortant H3N6 avian influenza viruses from long‐distance migratory birds in Jiangxi Province, China. MicrobiologyOpen, 9(8), Article e1060. https://doi.org/10.1002/mbo3.1060
