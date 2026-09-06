@@ -22,7 +22,17 @@ pip install -r requirements.txt
 ---
 
 ## Repository Structure
+```text
+📁 481/
+├── 📁 data/                  # Input datasets & source files
+├── 📁 outputs/               # Generated results & output graphs
+├── 📁 trees/                 # Graphviz tree output files
+├── 📄 481tograph_revised.py  # Graph visualization script
+├── 📄 481v2.py               # Main analysis pipeline script
+├── 📄 README.md              # Repository overview & instructions
+└── 📄 requirements.txt       # Python package dependencies
+````
 
-
+---
 ## Contact
 Dr. Daniel Janies: djanies@charlotte.edu
